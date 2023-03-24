@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.idea/
+env_yakquiz/
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
